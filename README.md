@@ -126,4 +126,9 @@ The system prompt enforces:
 
 ## 📜 License
 
-Provided for educational and demonstration purposes.
+This project is licensed under the **MIT License**.
+
+Copyright (c) 2026 **Usha Rengaraju**
+
+See the [LICENSE](LICENSE) file for details.
+
