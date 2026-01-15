@@ -3,8 +3,6 @@
 A **minimal Retrieval-Augmented Generation (RAG) FAQ assistant** built using the **NVIDIA Integrate API**.  
 This project demonstrates how to combine **semantic embeddings**, **in-memory vector search**, and **LLM chat completion** to answer questions strictly from retrieved context.
 
-🔗 **GitHub Repository:**  
-https://github.com/ushareng/RAG-FAQ-Bot-using-NVIDIA-Integrate-API-Embeddings-Chat
 
 ---
 
